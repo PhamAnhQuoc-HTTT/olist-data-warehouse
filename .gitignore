@@ -205,3 +205,13 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# === Project-specific ===
+# Raw data (large CSV files from Kaggle)
+data/raw/*.csv
+data/raw/*.zip
+
+# Database files (if using SQLite)
+*.db
+*.sqlite3
+```
