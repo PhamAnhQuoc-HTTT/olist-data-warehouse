@@ -42,7 +42,8 @@ olist-data-warehouse/
 │       ├── revenue_analysis.sql
 │       ├── delivery_performance.sql
 │       └── top_sellers.sql
-├── notebooks/              # Optional exploration notebooks
+├── notebooks/
+│   ├── dw_analytics.ipynb
 ├── .env                    # DB credentials (gitignored)
 ├── .gitignore
 ├── requirements.txt
