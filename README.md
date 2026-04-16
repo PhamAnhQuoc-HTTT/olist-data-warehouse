@@ -43,7 +43,7 @@ olist-data-warehouse/
 │       ├── delivery_performance.sql
 │       └── top_sellers.sql
 ├── notebooks/
-│   ├── dw_analytics.ipynb
+│   └──  dw_analytics.ipynb
 ├── .env                    # DB credentials (gitignored)
 ├── .gitignore
 ├── requirements.txt
